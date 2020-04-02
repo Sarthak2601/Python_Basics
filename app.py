@@ -1,0 +1,2 @@
+a = 'Sarthak'
+print(a)
