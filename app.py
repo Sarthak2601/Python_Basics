@@ -1,5 +1,9 @@
-a = 'Sarthak'
-a = 10
-print(a)
-
-# Understanding flow of execution
+patient = 'John Smith'
+age = 20
+isNewPatient = False
+if isNewPatient:
+    print(patient)
+    print(age)
+else:
+    print("Patient not present")
+# exercise 1
