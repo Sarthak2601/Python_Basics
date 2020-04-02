@@ -6,4 +6,4 @@ weight = int(input("Enter your weight in kilograms"))
 weightgms = str( weight * 1000 )
 print('Weight in grams : ' + weightgms)
 
-# Exercise 3 : Type Conversion
+# Exercise 3 : Type Conversion 
